@@ -1,0 +1,11 @@
+name: Tutorial
+version: '${project.version}'
+main: me.gamerpvg.tutorial.Main
+api-version: 1.19
+authors: [ GamerPvG ]
+description: Ein Tutorial Plugin
+website: https://www.emrage.com/
+commands:
+  test:
+    description: Schreibt eine Testnachricht
+
